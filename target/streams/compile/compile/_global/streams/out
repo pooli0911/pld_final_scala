@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0mD:\pldfinal\src\main\scala\controllers\SheetController.scala:72:26: not found: value accessRights[0m
+[0m[[0m[31merror[0m] [0m[0m            val rights = accessRights match {[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\pldfinal\src\main\scala\controllers\SheetController.scala:79:49: not found: value userId[0m
+[0m[[0m[31merror[0m] [0m[0m              println(s"Sheet shared with user $userId with $accessRights access")[0m
+[0m[[0m[31merror[0m] [0m[0m                                                ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\pldfinal\src\main\scala\controllers\SheetController.scala:79:62: not found: value accessRights[0m
+[0m[[0m[31merror[0m] [0m[0m              println(s"Sheet shared with user $userId with $accessRights access")[0m
+[0m[[0m[31merror[0m] [0m[0m                                                             ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
